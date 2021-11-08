@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sports Quizes</string>
+
+    <string-array name="sports">
+        <item>Select</item>
+        <item>Soccer Knowledge</item>
+        <item>Basketball Knowledge</item>
+        <item>Fitness Knowledge</item>
+        <item>Overall Sports Knowledge</item>
+    </string-array>
+</resources>
